@@ -1,7 +1,4 @@
 # air-tutorial
 airt.tomlのチュートリアル
 
-## Install
-```shell
-go install github.com/cosmtrek/air@latest
-```
+https://zenn.dev/urakawa_jinsei/articles/a5a222f67a4fac
